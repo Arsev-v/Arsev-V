@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1>🎧 Arsev-V</h1>
 
-<!--
-**Arsev-v/Arsev-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dev junior**
 
-Here are some ideas to get you started:
+I'm starting my journey in Python, focusing on automation and task optimization. I also have some knowledge of HTML & CSS and I'm always looking to learn more about development and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Technologies:
+
+Python
+HTML & CSS
+Git & GitHub
+
+Here you'll find some of my projects and experiments as I learn and grow in programming!
+
+<hr>
+
+### 🧰 Language Tools
+
+<img align='left' alt='python' width='30px' style='padding-right : 10px:' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+<img align='left' alt='html' width='30px' style='padding-right : 10px:' 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img align='left' alt='css' width='30px' style='padding-right : 10px:' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<br>
+
+<hr>
+
+### 🩸 Stats
+
+![Arsev-V's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arsev-V&show_icons=true&theme=shadow_red )
