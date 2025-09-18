@@ -1,32 +1,34 @@
-<h1>🩸 Arsev</h1>
+# 👋 Hey, I’m Arsev  
 
-**Dev junior**
+💻 Passionate about writing efficient and optimized code in **C++**.  
+🚀 Exploring areas like **algorithms, data structures, and system-level programming**.  
+🌱 Currently learning **modern C++ (C++17/20)** and sharpening problem-solving skills.  
+🤝 Open to collaborating on open-source C++ projects and competitive programming challenges.  
 
-I'm starting my journey in Python, focusing on automation and task optimization. I also have some knowledge of HTML & CSS and I'm always looking to learn more about development and technology.
+---
 
-📌 Technologies:
+## ⚡ Tech Stack  
 
-Python
-HTML & CSS
-Git & GitHub
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 
-Here you'll find some of my projects and experiments as I learn and grow in programming!
+---
 
-<hr>
+## 📊 GitHub Stats  
 
-### 🧰 Language Tools
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsev-V&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsev-V&layout=compact&theme=radical)  
+![Streak](https://streak-stats.demolab.com?user=Arsev-V&theme=radical&hide_border=true)  
 
-<img align='left' alt='python' width='30px' style='padding-right : 10px:' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
-<img align='left' alt='html' width='30px' style='padding-right : 10px:' 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+---
 
-<img align='left' alt='css' width='30px' style='padding-right : 10px:' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+## 🌍 Connect with Me  
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)  
 
-<hr>
+---
 
-### 🩸 Stats
-
-![Arsev-V's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arsev-V&show_icons=true&theme=shadow_red )
+✨ *“C++ is like a sharp sword: powerful, but only if you know how to wield it.”*  
