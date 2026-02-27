@@ -1,14 +1,12 @@
 # 👋 Hey, I’m Arsev  
 
-💻 Passionate about writing efficient and optimized code in **C++**.  
+💻 Passionate about writing efficient and optimized code in **javascript**.  
 🚀 Exploring areas like **algorithms, data structures, and system-level programming**.  
-🌱 Currently learning **modern C++ (C++17/20)** and sharpening problem-solving skills.  
-🤝 Open to collaborating on open-source C++ projects and competitive programming challenges.  
+🌱 Currently learning **web development** and sharpening problem-solving skills.
 
 ---
 
 ## ⚡ Tech Stack  
-
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,7 +17,7 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsev-V&show_icons=true&theme=radical)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arsev-V)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=rose_pine)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsev-V&layout=compact&theme=radical)  
 ![Streak](https://streak-stats.demolab.com?user=Arsev-V&theme=radical&hide_border=true)  
 
