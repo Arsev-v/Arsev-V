@@ -15,11 +15,7 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arsev-V)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=rose_pine)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsev-V&layout=compact&theme=radical)  
-![Streak](https://streak-stats.demolab.com?user=Arsev-V&theme=radical&hide_border=true)  
 
 ---
 
@@ -29,5 +25,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)  
 
 ---
-
-✨ *“C++ is like a sharp sword: powerful, but only if you know how to wield it.”*  
